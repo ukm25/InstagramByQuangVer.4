@@ -1,8 +1,8 @@
 package com.instagrambyquangver4.Adapter;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MyFotosAdapter extends AppCompatActivity {
 
